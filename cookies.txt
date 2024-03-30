@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+oklumi.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22reg%22%3A%22%22%2C%22region%22%3A%22ETAA%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%2C%22m%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%7D
+oklumi.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+oklumi.com	TRUE	/	FALSE	1999999999	localization	US
+oklumi.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+oklumi.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D
+oklumi.com	TRUE	/	FALSE	1999999999	_shopify_y	74c9fa2f-90e2-494d-a0ea-4ba65c945b70
+oklumi.com	TRUE	/	FALSE	1999999999	_shopify_s	c6fc5824-1c0f-4ddd-bee5-0ec950a10d95
+oklumi.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
